@@ -1,26 +1,43 @@
 body{
   text-align: center;
+  background-color: #151515;
 }
 
 h1 {
+  margin: 0;
   font-size: 100px;
   font-family: 'MFRED';
   font-weight: normal;
   color: white;
+  line-height: 0.96
 }
 
 h2 {
-
 }
 
 h3 {
-
 }
 
 p {
-
 }
 
+a {
+  font-size: 18px;
+  font-family: 'MFRED';
+  color: white;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+li {
+  display: inline;
+  padding-left: 40px;
+}
 @font-face {
     font-family: 'MFred';
     src: url('fonts/MFred.eot');
@@ -33,5 +50,20 @@ p {
 
 .header-wrapper {
   height: 100vh;
-  background-color: #151515;
+}
+
+.navigation {
+  padding: 65px 0 65px 0;
+  margin: 0 auto;
+  max-width: 1320px;
+}
+
+.title {
+  height: 100vh;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid red;
 }
