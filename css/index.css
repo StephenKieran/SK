@@ -41,11 +41,7 @@ li {
 @font-face {
     font-family: 'MFred';
     src: url('fonts/MFred.eot');
-    src: url('fonts/MFred.eot') format('embedded-opentype'),
-         url('fonts/MFred.woff2') format('woff2'),
-         url('fonts/MFred.woff') format('woff'),
-         url('fonts/MFred.ttf') format('truetype'),
-         url('fonts/MFred.svg#MFred') format('svg');
+    src: url('../fonts/MFred.woff2') format('woff2'), url('../fonts/MFred.woff') format('woff');
 }
 
 .header-wrapper {
@@ -72,7 +68,7 @@ li {
   margin-left: -145px;
 }
 .stephen-header {
-  margin-right: -145px;
+  margin-right: -140px;
 }
 
 .test {
