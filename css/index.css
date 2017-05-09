@@ -50,6 +50,8 @@ li {
 
 .header-wrapper {
   height: 100vh;
+  max-width: 1320px;
+  margin: 0 auto;
 }
 
 .navigation {
@@ -59,11 +61,9 @@ li {
 }
 
 .title {
-  height: 100vh;
-  text-align: center;
-  margin: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid red;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
 }
