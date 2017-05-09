@@ -4,3 +4,13 @@ body{
 h1 {
   font-size: 42px;
 }
+
+@font-face {
+    font-family: 'MFred';
+    src: url('fonts/MFred.eot');
+    src: url('fonts/MFred.eot') format('embedded-opentype'),
+         url('fonts/MFred.woff2') format('woff2'),
+         url('fonts/MFred.woff') format('woff'),
+         url('fonts/MFred.ttf') format('truetype'),
+         url('fonts/MFred.svg#MFred') format('svg');
+}
