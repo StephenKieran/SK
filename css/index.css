@@ -2,7 +2,6 @@ body{
   text-align: center;
   background-color: #151515;
 }
-
 h1 {
   margin: 0;
   font-size: 100px;
@@ -11,7 +10,6 @@ h1 {
   color: white;
   line-height: 0.94;
 }
-
 h2 {
   margin: 0;
   font-size: 64px;
@@ -19,13 +17,10 @@ h2 {
   font-weight: normal;
   color: white;
 }
-
 h3 {
 }
-
 p {
 }
-
 a {
   font-size: 18px;
   font-family: 'MFRED';
@@ -33,7 +28,6 @@ a {
   font-weight: normal;
   text-decoration: none;
 }
-
 ul {
   margin: 0;
   padding: 0;
@@ -54,13 +48,11 @@ li {
   max-width: 100vw;
   margin: 0 auto;
 }
-
 .navigation {
   padding: 65px 0 65px 0;
   margin: 0 auto;
   max-width: 1320px;
 }
-
 .title {
   top: 50%;
   left: 50%;
@@ -68,22 +60,19 @@ li {
   margin-right: -50%;
   transform: translate(-50%, -50%);
 }
-
 .kieran-header {
   margin-left: -145px;
   word-spacing: -7px;
 }
-.stephen-header {
-  margin-right: -140px;
-}
-
 .and-style{
   font-size: 64px;
   vertical-align: top;
   line-height: 1.4;
   border-bottom: 7px solid red;
 }
-
+.stephen-header {
+  margin-right: -140px;
+}
 .test {
 height: 400px;
 background-color: white;
