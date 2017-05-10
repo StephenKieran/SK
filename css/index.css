@@ -21,7 +21,7 @@ h2 {
 h3 {
   font-size: 17px;
   font-family: 'MFRED';
-  font-weight: bold;
+  font-weight: normal;
   color: white;
   letter-spacing: 1.2px;
   margin-bottom: 7px;
@@ -126,4 +126,26 @@ height: 900px;
 background-color: #151515;
 text-align: left;
 padding-left: 20px;
+}
+.project-tile {
+  height: 393px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 20px;
+  /*border: 1px red solid;*/
+}
+.project-push {
+  margin-left: 35px;
+}
+.tile-1 {
+  margin-left: 440px;
+  margin-top: -60px;
+}
+.tile-2 {
+  margin-left:-60px;
+  margin-top: 90px;
+}
+.tile-3 {
+  margin-left: 440px;
+  margin-top: 60px;
 }
