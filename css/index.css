@@ -2,7 +2,6 @@ body{
   /*text-align: center;*/
   background-color: #151515;
 }
-
 html {
   -webkit-font-smoothing: antialiased;
 }
@@ -13,6 +12,7 @@ h1 {
   font-weight: normal;
   color: white;
   line-height: 0.94;
+  text-rendering: geometricPrecision;
 }
 h2 {
   font-size: 94px;
