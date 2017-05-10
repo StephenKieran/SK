@@ -11,10 +11,26 @@ h1 {
   line-height: 0.94;
 }
 h2 {
+  font-size: 94px;
+  font-family: 'MFRED';
+  color: white;
+  line-height: 0.94;
+  margin: 0;
+  font-weight: normal;
 }
 h3 {
+  font-size: 17px;
+  font-family: 'MFRED';
+  font-weight: normal;
+  color: white;
+  letter-spacing: 1.2px;
+  margin: 0;a
 }
 p {
+  font-size: 16px;
+  color: white;
+  font-weight: normal;
+  margin: 0;
 }
 a {
   font-size: 17px;
@@ -70,9 +86,34 @@ li {
 .stephen-header {
   margin-right: -140px;
 }
-.test {
-height: 400px;
-background-color: white;
-text-align: center;
-top: 50%;
+.services-wrapper {
+margin: 0 auto;
+max-width: 1080px;
+padding-left: 20px;
+height: 900px;
+background-color: #151515;
+text-align: left;
+}
+.services-title {
+  padding-top: 200px;
+}
+.services {
+  margin-left: 50%;
+  max-width: 250px;
+  margin-top: 30px;
+  padding-right: 20px;
+}
+.services-spacing {
+  margin-bottom: 70px;
+}
+.project-title {
+  padding-top: 280px;
+}
+.project-wrapper {
+margin: 0 auto;
+max-width: 1080px;
+height: 900px;
+background-color: #151515;
+text-align: left;
+padding-left: 20px;
 }
