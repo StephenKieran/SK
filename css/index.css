@@ -21,11 +21,18 @@ h2 {
 h3 {
   font-size: 17px;
   font-family: 'MFRED';
-  font-weight: normal;
+  font-weight: bold;
   color: white;
   letter-spacing: 1.2px;
   margin-bottom: 7px;
-
+}
+h4 {
+  font-size: 62px;
+  font-family: 'MFRED';
+  color: white;
+  line-height: 0.94;
+  margin: 0;
+  font-weight: normal;
 }
 p {
   font-size: 16px;
