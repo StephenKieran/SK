@@ -29,8 +29,10 @@ h3 {
 p {
   font-size: 16px;
   color: white;
-  font-weight: normal;
+  font-weight: 300;
   margin: 0;
+  font-family: 'Neuton', serif;
+  line-height: 22px;
 }
 a {
   font-size: 17px;
