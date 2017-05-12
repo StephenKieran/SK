@@ -117,9 +117,10 @@ img {
 }
 .find-out-more {
   float: right;
-  bottom: 21.2%;
+  margin-top: 400px;
+  /*bottom: 21.2%;
   position: absolute;
-  right: 4.5%;
+  right: 4.5%;*/
 }
 .text-style {
   transform: rotate(-90deg);
@@ -140,7 +141,7 @@ img {
   text-align: center;
 }
 .test {
-  
+
 }
 .intro-paragraph {
   font-size: 21px;
