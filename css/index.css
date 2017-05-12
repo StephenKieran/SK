@@ -102,7 +102,7 @@ img {
   padding: 0 5% 0 5%;
 }
 .kieran-header {
-  margin-left: -145px;
+  margin-left: -137px;
   word-spacing: -7px;
 }
 .and-style{
@@ -115,6 +115,24 @@ img {
 .stephen-header {
   margin-right: -140px;
 }
+.find-out-more {
+  float: right;
+  bottom: 21.2%;
+  position: absolute;
+  right: 4.5%;
+}
+.text-style {
+  transform: rotate(-90deg);
+  font-size: 16px;
+}
+.scroll {
+  font-size: 16px;
+}
+.arrow {
+  margin: 0 0 -100px 55px;
+  max-width: 13px;
+}
+
 .intro-wrapper {
   max-width: 650px;
   padding: 0 5% 0 5%;
@@ -122,7 +140,6 @@ img {
   margin-bottom: 400px;
   text-align: center;
 }
-
 .intro-paragraph {
   font-size: 21px;
   font-family: 'Droid Serif', serif;
