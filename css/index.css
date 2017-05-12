@@ -132,13 +132,15 @@ img {
   margin: 0 0 -100px 55px;
   max-width: 13px;
 }
-
 .intro-wrapper {
   max-width: 650px;
   padding: 0 5% 0 5%;
   margin: 0 auto;
   margin-bottom: 400px;
   text-align: center;
+}
+.test {
+  
 }
 .intro-paragraph {
   font-size: 21px;
