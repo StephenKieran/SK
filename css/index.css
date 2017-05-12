@@ -27,7 +27,7 @@ h3 {
   font-family: 'MFRED';
   font-weight: normal;
   color: white;
-  letter-spacing: 1.2px;
+  letter-spacing: 2px;
   margin: 40px 0 2px 0;
 }
 h4 {
@@ -115,7 +115,28 @@ img {
 .stephen-header {
   margin-right: -140px;
 }
-.services-wrapper {
+.intro-wrapper {
+  max-width: 650px;
+  padding: 0 5% 0 5%;
+  margin: 0 auto;
+  margin-bottom: 400px;
+  text-align: center;
+}
+
+.intro-paragraph {
+  font-size: 21px;
+  font-family: 'Droid Serif', serif;
+  color: white;
+  line-height: 1.7;
+}
+.divider {
+  width: 23px;
+  height:7px;
+  background-color: red;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+/*.services-wrapper {
   max-width: 1035px;
   padding: 0 5% 0 5%;
   margin: 0 auto;
@@ -124,9 +145,10 @@ img {
 .services-title {
   margin-bottom: 110px;
 }
+
 .services-list {
   max-width: 240px;
-}
+}*/
 .project-wrapper {
   max-width: 1035px;
   padding: 0 5% 0 5%;
@@ -151,6 +173,11 @@ img {
     a {
       font-size: 18px;
     }
+    h3 {
+      font-size: 18px;
+      margin: 40px 0 8px 0;
+      letter-spacing: 3px;
+    }
 
 @media only screen and (min-width: 768px) {
     h2 {
@@ -159,6 +186,7 @@ img {
     h3 {
       font-size: 18px;
       margin: 40px 0 8px 0;
+      letter-spacing: 3px;
     }
     h4 {
       font-size: 62px;
@@ -201,11 +229,16 @@ img {
     .tile-2 {
       float: left;
       margin-left: -30px;
-      margin-top: -175px;
+      margin-top: -180px;
     }
     .tile-3 {
       float: right;
       margin-left: 40%;
       margin-top: -360px;
+    }
+    h3 {
+      font-size: 18px;
+      margin: 40px 0 8px 0;
+      letter-spacing: 3px;
     }
 }
