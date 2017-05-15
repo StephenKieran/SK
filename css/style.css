@@ -192,8 +192,10 @@ lol
 .bottom {
   padding-bottom: 30px;
 }
-.clearfix {
-  overflow: auto;
+.clearfix:after {
+  display: block;
+  content: "";
+  clear: both;
 }
 .divider-2{
     width: 23px;
