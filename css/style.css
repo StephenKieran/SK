@@ -179,6 +179,17 @@ lol
     margin-bottom: 200px;
     margin-top: 200px;
   }
+  .left {
+    float: left;
+  }
+.block {
+  display: block;
+  padding-left: 0;
+  padding-bottom: 20px;
+}
+.bottom {
+  padding-bottom: 30px;
+}
 @media only screen and (min-width: 350px) {
     a {
       font-size: 18px;
@@ -238,6 +249,16 @@ lol
     }
     .project-title {
       margin-bottom: 75px;
+    }
+    .bottom {
+      padding-bottom: 60px;
+    }
+    .inline {
+      display: inline-block;
+      padding-left: 50px;
+    }
+    .no-left {
+      padding-left: 0;
     }
 }
 
