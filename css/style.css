@@ -141,7 +141,7 @@ img {
 lol
 }
 .intro-paragraph {
-    font-size: 21px;
+    font-size: 18px;
     font-family: 'Droid Serif', serif;
     color: white;
     line-height: 1.7;
@@ -172,6 +172,13 @@ lol
 .title-ident {
     margin-left: 30px;
 }
+.footer-wrapper {
+    max-width: 1035px;
+    padding: 0 5% 0 5%;
+    margin: 0 auto;
+    margin-bottom: 200px;
+    margin-top: 200px;
+  }
 @media only screen and (min-width: 350px) {
     a {
       font-size: 18px;
