@@ -134,8 +134,11 @@ img {
     max-width: 650px;
     padding: 0 5% 0 5%;
     margin: 0 auto;
-    margin-bottom: 400px;
+    margin-bottom: 405px;
     text-align: center;
+}
+.intro {
+  margin-bottom: 400px;
 }
 .test {
 lol
