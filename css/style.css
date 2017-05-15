@@ -134,11 +134,10 @@ img {
     max-width: 650px;
     padding: 0 5% 0 5%;
     margin: 0 auto;
-    margin-bottom: 405px;
+    margin-bottom: 200px;
     text-align: center;
 }
 .intro {
-  margin-bottom: 400px;
 }
 .test {
 lol
@@ -160,6 +159,7 @@ lol
     max-width: 1035px;
     padding: 0 5% 0 5%;
     margin: 0 auto;
+    margin-top: 200px;
     margin-bottom: 200px;
 }
 .project-title {
